@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Benzi Katz
 
+#🔭 I’m currently working on ...
+
+Technologies that I'm passionate about:
 <!--
 **BenZionKatz/BenZionKatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
